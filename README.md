@@ -7,9 +7,9 @@ This competition does not count for ranking but it is a beginner friendly compet
 
 The Dataset can be downloaded from the kaggle website.
 
-My code is divided into two parts:Data Analysis and Predicting the house prices
-Data Analysis  include understanding the problem,Hypothesis generation and data exloration
-Predicting the house prices include Feature Engineering,Model Training and Model Evaluation and Testing
+My code is divided into two parts:Data Analysis and Predicting the house prices.
+Data Analysis  include understanding the problem,Hypothesis generation and data exloration.
+Predicting the house prices include Feature Engineering,Model Training and Model Evaluation and Testing.
 
 My score(as of 15:30 ,2-08-2020) is 14935.04279 and leaderboard rank is 3307.
 
